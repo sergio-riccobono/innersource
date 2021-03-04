@@ -26,5 +26,5 @@ For your repositories to flourish, it's important that people know they exist! H
 
 # Documentation
 
-- Classifying your repository with topics on [GitHub.com](https://help.github.com/en/articles/classifying-your-repository-with-topics) and [GitHub Enterprise Server](https://help.github.com/en/enterprise/user/articles/classifying-your-repository-with-topics)
-- Searching for repositories on [GitHub.com](https://help.github.com/en/articles/searching-for-repositories) and [GitHub Enterprise Server](https://help.github.com/en/enterprise/user/articles/searching-for-repositories#search-by-topic)
+- Classifying your repository with topics on [GitHub.com](https://help.github.com/en/articles/classifying-your-repository-with-topics) and [GitHub Enterprise Server] (https://help.github.com/en/enterprise/user/articles/classifying-your-repository-with-topics)
+- Searching for repositories on [GitHub.com](https://help.github.com/en/articles/searching-for-repositories) and [GitHub Enterprise Server] (https://help.github.com/en/enterprise/user/articles/searching-for-repositories#search-by-topic)
